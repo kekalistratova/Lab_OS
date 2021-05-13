@@ -1,4 +1,4 @@
-﻿---
+---
 # Front matter
 lang: ru-RU
 title: "Отчёт по лабораторной работе №2"
