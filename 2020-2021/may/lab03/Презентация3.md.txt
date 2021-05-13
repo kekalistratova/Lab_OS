@@ -1,4 +1,4 @@
-﻿---
+---
 ## Front matter
 lang: ru-RU
 title: Лабораторная работа №3
