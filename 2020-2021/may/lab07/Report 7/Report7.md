@@ -86,9 +86,7 @@ header-includes:
 
 ![Использую команду find/ -name “log*” > logfile &](image7/6.png)
 
-![Использую команду cat logfile](image/7.png)
-
-![Использую команду cat logfile](image7/8.png)
+![Использую команду cat logfile](image7/7.png)
 
 ![Использую команду rm logfile](image7/9.png)
 
